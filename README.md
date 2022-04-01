@@ -7,7 +7,7 @@ Term: Spring 2022
 + Team 8
 + Project title: Lorem ipsum dolor sit amet
 + Team members
-	+ Sarah Kuriahra
+	+ Sarah Kurihara
 	+ Varchasvi Vedula
 	+ Wenhui Fang
 	+ Krista Zhang
