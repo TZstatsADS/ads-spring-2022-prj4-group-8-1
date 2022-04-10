@@ -5,7 +5,7 @@
 Term: Spring 2022
 
 + Team 8
-+ Project title: Lorem ipsum dolor sit amet
++ Project title: Implementation, Evaluation and Comparison on two algorithms: Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment (DM and DM-sen) and Handling Conditional Discrimination (LM and LPS)
 + Team members
 	+ Sarah Kurihara
 	+ Varchasvi Vedula
