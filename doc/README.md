@@ -1,3 +1,3 @@
 ### Doc folder
 
-The doc directory contains the report or presentation files. It can have subfolders.  
+The doc directory contains the code, report and presentation files. A4 Implementation.ipynb is for Implementation of Algorithm 4 (DM and DM-sen), and a6.ipynb and algo-6.ipynb are for Implementation of Algorithm 6 (LM and LPS).  
