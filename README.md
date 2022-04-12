@@ -15,7 +15,7 @@ Term: Spring 2022
 + Project summary: We mainly focus on two algorithms and compare the evaluation of them: Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment (DM and DM-sen) and Handling Conditional Discrimination (LM and LPS).
 	
 **Contribution statement**: 
-+ Sarah Kurihara:
++ Sarah Kurihara: Wrote and implemented code for Local Preferential Sampling (A6) and performed evaluation. Wrote baseline logistic model for testing and evaluation. Contributed to github repo and slides for A6.
 + Varchasvi Vedula: Implemented Local Massaging (A6) and all helper functions for A6 algorithms and evaluation. Wrote the slides for A6.
 + Wenhui Fang: Mainly responsible for the Algorithm 4 implementation, built logistic regression model with modified loss function to restrict misclassfication rate. Wrote slides for A4.
 + Krista Zhang:
