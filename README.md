@@ -14,7 +14,7 @@ Term: Spring 2022
 	+ Sharon Meng
 + Project summary: We mainly focus on two algorithms and compare the evaluation of them: Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment (DM and DM-sen) and Handling Conditional Discrimination (LM and LPS).
 	
-**Contribution statement**: [default] 
+**Contribution statement**: 
 + Sarah Kurihara:
 + Varchasvi Vedula:
 + Wenhui Fang:
