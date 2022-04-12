@@ -17,7 +17,7 @@ Term: Spring 2022
 **Contribution statement**: 
 + Sarah Kurihara:
 + Varchasvi Vedula: Implemented Local Massaging (A6) and all helper functions for A6 algorithms and evaluation. Wrote the slides for A6.
-+ Wenhui Fang: Mainly responsible for the Algorithm 4 implementation, built logistic regression model with modified loss function to restrict misclassfication rate.
++ Wenhui Fang: Mainly responsible for the Algorithm 4 implementation, built logistic regression model with modified loss function to restrict misclassfication rate. Wrote slides for A4.
 + Krista Zhang:
 + Sharon Meng: The presenter. Mainly responsible for the Algorithm 4 summary and implementation (DM and DM-sen), built neural network and logistic regression baseline model, Edited presentation report, helped organized github repo.
 
