@@ -17,7 +17,7 @@ Term: Spring 2022
 **Contribution statement**: 
 + Sarah Kurihara:
 + Varchasvi Vedula:
-+ Wenhui Fang:
++ Wenhui Fang: Mainly responsible for the Algorithm 4 implementation, built logistic regression model with modified loss function to restrict misclassfication rate.
 + Krista Zhang:
 + Sharon Meng: The presenter. Mainly responsible for the Algorithm 4 summary and implementation (DM and DM-sen), built neural network and logistic regression baseline model, Edited presentation report, helped organized github repo.
 
