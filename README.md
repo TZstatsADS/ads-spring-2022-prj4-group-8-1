@@ -7,11 +7,11 @@ Term: Spring 2022
 + Team 8
 + Project title: Implementation, Evaluation and Comparison on two algorithms: Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment (DM and DM-sen) and Handling Conditional Discrimination (LM and LPS)
 + Team members
-	+ Sarah Kurihara
-	+ Varchasvi Vedula
-	+ Wenhui Fang
-	+ Krista Zhang
-	+ Sharon Meng
+	+ Sarah Kurihara: sqk2003@columbia.edu
+	+ Varchasvi Vedula: vvv2108@columbia.edu
+	+ Wenhui Fang: wf2282@columbia.edu
+	+ Krista Zhang: rz2559@columbia.edu
+	+ Sharon Meng: rz2559@columbia.edu
 + Project summary: We mainly focus on two algorithms and compare the evaluation of them: Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment (DM and DM-sen) and Handling Conditional Discrimination (LM and LPS).
 	
 **Contribution statement**: 
