@@ -16,10 +16,10 @@ Term: Spring 2022
 	
 **Contribution statement**: 
 + Sarah Kurihara: Wrote and implemented code for Local Preferential Sampling (A6) and performed evaluation. Wrote baseline logistic model for testing and evaluation. Contributed to github repo and slides for A6.
-+ Varchasvi Vedula: Implemented Local Massaging (A6) and all helper functions for A6 algorithms and evaluation. Wrote the slides for A6.
-+ Wenhui Fang: Mainly responsible for the Algorithm 4 implementation, built logistic regression model with modified loss function to restrict misclassfication rate. Wrote slides for A4.
-+ Krista Zhang: Mainly worked on Algorithm 4. Helped debug the Algorithm 4 coding part and built visualization of the result of the project.
-+ Sharon Meng: The presenter. Mainly responsible for the Algorithm 4 summary and implementation (DM and DM-sen), built neural network and logistic regression baseline model, Edited presentation report, helped organized github repo.
++ Varchasvi Vedula: Wrote and implemented Local Massaging (A6) and all helper functions for A6 algorithms and evaluation. Wrote the slides for A6. Helped debug A4 and combine all codes into main.ipynb.
++ Wenhui Fang: Wrote and implemented the Algorithm 4, built logistic regression model with modified loss function to restrict misclassfication rate. Wrote slides for A4.
++ Krista Zhang: Worked on Algorithm 4. Helped debug the Algorithm 4 coding part and built visualization of the result of the project.
++ Sharon Meng: The presenter. Summarized, wrote and implemented code for Algorithm 4 (DM and DM-sen), built neural network and logistic regression baseline model, Edited presentation report and built visualization for results, helped organized github repo.
 
 All team members approve our work presented in this GitHub repository including this contributions statement. 
 
