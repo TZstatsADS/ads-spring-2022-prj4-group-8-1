@@ -7,14 +7,21 @@ Term: Spring 2022
 + Team 8
 + Project title: Implementation, Evaluation and Comparison on two algorithms: Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment (DM and DM-sen) and Handling Conditional Discrimination (LM and LPS)
 + Team members
-	+ Sarah Kurihara
-	+ Varchasvi Vedula
-	+ Wenhui Fang
-	+ Krista Zhang
-	+ Sharon Meng
+	+ Sarah Kurihara: sqk2003@columbia.edu
+	+ Varchasvi Vedula: vvv2108@columbia.edu
+	+ Wenhui Fang: wf2282@columbia.edu
+	+ Krista Zhang: rz2559@columbia.edu
+	+ Sharon Meng: zm2380@columbia.edu
 + Project summary: We mainly focus on two algorithms and compare the evaluation of them: Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment (DM and DM-sen) and Handling Conditional Discrimination (LM and LPS).
 	
-**Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
+**Contribution statement**: 
++ Sarah Kurihara: Wrote and implemented code for Local Preferential Sampling (A6) and performed evaluation. Wrote baseline logistic model for testing and evaluation. Contributed to github repo and slides for A6.
++ Varchasvi Vedula: Implemented Local Massaging (A6) and all helper functions for A6 algorithms and evaluation. Wrote the slides for A6.
++ Wenhui Fang: Mainly responsible for the Algorithm 4 implementation, built logistic regression model with modified loss function to restrict misclassfication rate. Wrote slides for A4.
++ Krista Zhang:
++ Sharon Meng: The presenter. Mainly responsible for the Algorithm 4 summary and implementation (DM and DM-sen), built neural network and logistic regression baseline model, Edited presentation report, helped organized github repo.
+
+All team members approve our work presented in this GitHub repository including this contributions statement. 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
