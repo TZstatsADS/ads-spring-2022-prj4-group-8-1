@@ -15,11 +15,11 @@ Term: Spring 2022
 + Project summary: We mainly focus on two algorithms and compare the evaluation of them: Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment (DM and DM-sen) and Handling Conditional Discrimination (LM and LPS).
 	
 **Contribution statement**: 
-+ Sarah Kurihara: Wrote and implemented code for Local Preferential Sampling (A6) and performed evaluation. Wrote baseline logistic model for testing and evaluation. Contributed to github repo and slides for A6.
++ Sarah Kurihara: Wrote and implemented Local Preferential Sampling (A6) and performed evaluation. Wrote baseline logistic model for testing and evaluation. Contributed to github repo and slides for A6.
 + Varchasvi Vedula: Wrote and implemented Local Massaging (A6) and all helper functions for A6 algorithms and evaluation. Wrote the slides for A6. Helped debug A4 and combine all codes into main.ipynb.
-+ Wenhui Fang: Wrote and implemented the Algorithm 4, built logistic regression model with modified loss function to restrict misclassfication rate. Wrote slides for A4.
++ Wenhui Fang: Wrote and implemented the Algorithm 4 (DM and DM-sen), built logistic regression model with modified loss function to restrict misclassfication rate. Wrote slides for A4.
 + Krista Zhang: Worked on Algorithm 4. Helped debug the Algorithm 4 coding part and built visualization of the result of the project.
-+ Sharon Meng: The presenter. Summarized, wrote and implemented code for Algorithm 4 (DM and DM-sen), built neural network and logistic regression baseline model, Edited presentation report and built visualization for results, helped organized github repo.
++ Sharon Meng: The presenter. Summarized, wrote and implemented Algorithm 4 (DM and DM-sen), built neural network and logistic regression baseline model, Edited presentation report and built visualization for results, helped organized github repo.
 
 All team members approve our work presented in this GitHub repository including this contributions statement. 
 
